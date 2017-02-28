@@ -1,11 +1,11 @@
 <root>
 <mobilebase>
 	<cadEngine>
-		<git>https://gist.github.com/0f50f8ca75bc37b58b94bdac54193124.git</git>
+		<git>https://github.com/madhephaestus/MechWarfareWPI.git</git>
 		<file>LinkedCadEngine.groovy</file>
 	</cadEngine>
 	<driveEngine>
-		<git>https://gist.github.com/0f50f8ca75bc37b58b94bdac54193124.git</git>
+		<git>https://github.com/madhephaestus/MechWarfareWPI.git</git>
 		<file>Walking.groovy</file>
 	</driveEngine>
 
@@ -14,11 +14,11 @@
 
 <name>DefaultLeg</name>
 	<cadEngine>
-		<git>https://gist.github.com/0f50f8ca75bc37b58b94bdac54193124.git</git>
+		<git>https://github.com/madhephaestus/MechWarfareWPI.git</git>
 		<file>LinkedCadEngine.groovy</file>
 	</cadEngine>
 	<kinematics>
-		<git>https://gist.github.com/0f50f8ca75bc37b58b94bdac54193124.git</git>
+		<git>https://github.com/madhephaestus/MechWarfareWPI.git</git>
 		<file>DH-Solver.groovy</file>
 	</kinematics>
 <link>
@@ -209,11 +209,11 @@
 
 <name>DefaultLeg2</name>
 	<cadEngine>
-		<git>https://gist.github.com/0f50f8ca75bc37b58b94bdac54193124.git</git>
+		<git>https://github.com/madhephaestus/MechWarfareWPI.git</git>
 		<file>LinkedCadEngine.groovy</file>
 	</cadEngine>
 	<kinematics>
-		<git>https://gist.github.com/0f50f8ca75bc37b58b94bdac54193124.git</git>
+		<git>https://github.com/madhephaestus/MechWarfareWPI.git</git>
 		<file>DH-Solver.groovy</file>
 	</kinematics>
 <link>
@@ -404,11 +404,11 @@
 
 <name>DefaultLeg3</name>
 	<cadEngine>
-		<git>https://gist.github.com/0f50f8ca75bc37b58b94bdac54193124.git</git>
+		<git>https://github.com/madhephaestus/MechWarfareWPI.git</git>
 		<file>LinkedCadEngine.groovy</file>
 	</cadEngine>
 	<kinematics>
-		<git>https://gist.github.com/0f50f8ca75bc37b58b94bdac54193124.git</git>
+		<git>https://github.com/madhephaestus/MechWarfareWPI.git</git>
 		<file>DH-Solver.groovy</file>
 	</kinematics>
 <link>
@@ -599,11 +599,11 @@
 
 <name>DefaultLeg4</name>
 	<cadEngine>
-		<git>https://gist.github.com/0f50f8ca75bc37b58b94bdac54193124.git</git>
+		<git>https://github.com/madhephaestus/MechWarfareWPI.git</git>
 		<file>LinkedCadEngine.groovy</file>
 	</cadEngine>
 	<kinematics>
-		<git>https://gist.github.com/0f50f8ca75bc37b58b94bdac54193124.git</git>
+		<git>https://github.com/madhephaestus/MechWarfareWPI.git</git>
 		<file>DH-Solver.groovy</file>
 	</kinematics>
 <link>
