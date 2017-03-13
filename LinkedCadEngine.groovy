@@ -5,7 +5,7 @@ import com.neuronrobotics.bowlerstudio.vitamins.*;
 //First we load teh default cad generator script 
 ICadGenerator defaultCadGen=(ICadGenerator) ScriptingEngine
 	                    .gitScriptRun(
-                                "https://gist.github.com/bcb4760a449190206170.git", // git location of the library
+                                "https://github.com/madhephaestus/carl-the-hexapod.git", // git location of the library
 	                              "ThreeDPrintCad.groovy" , // file to load
 	                              null
                         )
