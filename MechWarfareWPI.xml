@@ -70,7 +70,7 @@
 	<DHParameters>
 		<Delta>0.0</Delta>
 		<Theta>0.01</Theta>
-		<Radius>60.0</Radius>
+		<Radius>64.26829268292683</Radius>
 		<Alpha>-89.97</Alpha>
 	</DHParameters>
 
@@ -124,7 +124,7 @@
 	<DHParameters>
 		<Delta>0.0</Delta>
 		<Theta>0.01</Theta>
-		<Radius>77.07317073170732</Radius>
+		<Radius>72.8048780487805</Radius>
 		<Alpha>0.01</Alpha>
 	</DHParameters>
 
@@ -178,7 +178,7 @@
 	<DHParameters>
 		<Delta>0.0</Delta>
 		<Theta>90.01</Theta>
-		<Radius>100.0</Radius>
+		<Radius>96.58536585365853</Radius>
 		<Alpha>0.01</Alpha>
 	</DHParameters>
 
@@ -626,12 +626,12 @@
 		<vitamin>
 			<name>electroMechanical</name>
 			<type>hobbyServo</type>
-			<id>standardMicro</id>
+			<id>hv6214mg</id>
 		</vitamin>
 		<vitamin>
 			<name>shaft</name>
 			<type>hobbyServoHorn</type>
-			<id>standardMicro1</id>
+			<id>hv6214mg_1</id>
 		</vitamin>
 
 	</vitamins>
@@ -655,7 +655,7 @@
 	<DHParameters>
 		<Delta>0.0</Delta>
 		<Theta>0.0</Theta>
-		<Radius>60.0</Radius>
+		<Radius>71.09756097560975</Radius>
 		<Alpha>-90.0</Alpha>
 	</DHParameters>
 
@@ -680,12 +680,12 @@
 		<vitamin>
 			<name>electroMechanical</name>
 			<type>hobbyServo</type>
-			<id>standardMicro</id>
+			<id>hv6214mg</id>
 		</vitamin>
 		<vitamin>
 			<name>shaft</name>
 			<type>hobbyServoHorn</type>
-			<id>standardMicro1</id>
+			<id>hv6214mg_1</id>
 		</vitamin>
 
 	</vitamins>
@@ -709,7 +709,7 @@
 	<DHParameters>
 		<Delta>0.0</Delta>
 		<Theta>0.0</Theta>
-		<Radius>60.0</Radius>
+		<Radius>69.39024390243902</Radius>
 		<Alpha>0.0</Alpha>
 	</DHParameters>
 
@@ -734,12 +734,12 @@
 		<vitamin>
 			<name>electroMechanical</name>
 			<type>hobbyServo</type>
-			<id>standardMicro</id>
+			<id>hv6214mg</id>
 		</vitamin>
 		<vitamin>
 			<name>shaft</name>
 			<type>hobbyServoHorn</type>
-			<id>standardMicro1</id>
+			<id>hv6214mg_1</id>
 		</vitamin>
 
 	</vitamins>
