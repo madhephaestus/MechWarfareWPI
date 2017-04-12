@@ -9,7 +9,7 @@
 		<file>Walking.groovy</file>
 	</driveEngine>
 
-<name>MechWarfareWPI</name>
+<name>MechWarfareWPI1</name>
 <leg>
 
 <name>DefaultLeg</name>
@@ -41,12 +41,12 @@
 		<vitamin>
 			<name>electroMechanical</name>
 			<type>hobbyServo</type>
-			<id>standardMicro</id>
+			<id>hv6214mg</id>
 		</vitamin>
 		<vitamin>
 			<name>shaft</name>
 			<type>hobbyServoHorn</type>
-			<id>standardMicro1</id>
+			<id>hv6214mg_1</id>
 		</vitamin>
 
 	</vitamins>
@@ -95,12 +95,12 @@
 		<vitamin>
 			<name>electroMechanical</name>
 			<type>hobbyServo</type>
-			<id>standardMicro</id>
+			<id>hv6214mg</id>
 		</vitamin>
 		<vitamin>
 			<name>shaft</name>
 			<type>hobbyServoHorn</type>
-			<id>standardMicro1</id>
+			<id>hv6214mg_1</id>
 		</vitamin>
 
 	</vitamins>
@@ -149,12 +149,12 @@
 		<vitamin>
 			<name>electroMechanical</name>
 			<type>hobbyServo</type>
-			<id>standardMicro</id>
+			<id>hv6214mg</id>
 		</vitamin>
 		<vitamin>
 			<name>shaft</name>
 			<type>hobbyServoHorn</type>
-			<id>standardMicro1</id>
+			<id>hv6214mg_1</id>
 		</vitamin>
 
 	</vitamins>
@@ -393,10 +393,10 @@
 	<x>74.99999999999996</x>
 	<y>-59.99999999999995</y>
 	<z>210.00000000000003</z>
-	<rotw>0.07925844132879416</rotw>
-	<rotx>-0.7026507663684222</rotx>
-	<roty>0.0792584413287932</roty>
-	<rotz>0.7026507663684213</rotz>
+	<rotw>0.07925844132879414</rotw>
+	<rotx>-0.702650766368422</rotx>
+	<roty>0.07925844132879319</roty>
+	<rotz>0.7026507663684212</rotz>
 </baseToZframe>
 
 </leg>
